@@ -19,3 +19,7 @@ Now, \_\_init\_\_.py has all the commands so `from mathlibpy import *` is now po
 vec.py is made up mainly of the new class, Vector
 
 And one more thing, a new unit.py will be added in __Version 0.2__.
+
+### Version 0.1.1
+
+Made pi from num.py to the variable name: `num_py` and the same for e and tau

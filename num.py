@@ -742,9 +742,9 @@ def factorize(n):
             factors.append(i)
     return factors
 
-pi = math.pi
-e = math.e
-tau = 2 * math.pi
+num_pi = math.pi
+num_e = math.e
+num_tau = 2 * math.pi
 
 if __name__ == "__main__":
     print(((math.nextafter(1.0, 3.0)-1)*10000000000000000 - 2.220446049250313) * 10000000000000000000) # returns the next float after 1.0 towards 2.0
