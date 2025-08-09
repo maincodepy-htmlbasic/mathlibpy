@@ -9,3 +9,13 @@ This library would mainly be split up into two parts, that is, mathlibpy.num for
 mathlibpy.num will contain numpy and math while mathlibpy.sym will contain mainly sympy
 
 There will be more in coming soon.
+
+## Version 0.1
+
+Now added sym and vec for symbolic and vector computation respectively
+
+Now, \_\_init\_\_.py has all the commands so `from mathlibpy import *` is now possible.
+
+vec.py is made up mainly of the new class, Vector
+
+And one more thing, a new unit.py will be added in __Version 0.2__.
